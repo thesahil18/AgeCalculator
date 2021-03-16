@@ -3,6 +3,9 @@ There will be 1 year differnce in this program.
 If you cross check check yor age in real or through the program.
 If You check your age from present age input then there also 1 year differnce in present input or abirth input.
 '''
+'''
+If you run this program from choice 2 this will assume that you have Birthday on 1st January.
+'''
 print('''----------------AGE CALCULATOR----------------\n\n''')
 
 present_year = int(input("Enter Present Year : "))
